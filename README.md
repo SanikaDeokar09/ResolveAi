@@ -34,37 +34,37 @@ The system uses conditional workflow routing and **human-in-the-loop review** to
 
 Shows a case that completes the workflow without human approval.
 
-![Automatic Refund](screenshots/automatic-refund.png)
+
 
 ### 2. Human-in-the-Loop Approval
 
 Shows a pending case with reviewer approval and rejection controls.
 
-![Human Approval](screenshots/human-approval.png)
+
 
 ### 3. Rejected Refund
 
 Shows a request rejected by the policy rules or a reviewer.
 
-![Rejected Refund](screenshots/rejected-refund.png)
+
 
 ### 4. Decision Details and Risk Assessment
 
 Shows order verification, policy verdict, fraud risk, and final decision.
 
-![Decision Details](screenshots/decision-details.png)
+
 
 ### 5. Agent Execution Log
 
 Shows workflow steps, tool calls, and recorded outputs.
 
-![Agent Execution Log](screenshots/agent-execution-log.png)
+
 
 ### 6. Recent Cases Dashboard
 
 Shows multiple refund cases and their statuses, amounts, and transaction details.
 
-![Recent Cases](screenshots/recent-cases.png)
+
 
 > Save your actual screenshots in the `screenshots/` folder using the filenames shown above. Remove any screenshot sections for which you do not have an image.
 
